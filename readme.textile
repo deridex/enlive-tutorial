@@ -644,7 +644,7 @@ h3. The Pages
 
 Now for the fun part. The pages are just functions no more and no less. The first page <code>viewa</code> is just rendering the base template with the title "View A" and setting the main block of the page to the 3 column snippet.
 
-The page <code>viewb</code> does pretty much the same thing but this time we've added some navs for flair. Notice how much this function looks like <code>viewb</code>.
+The page <code>viewb</code> does pretty much the same thing but this time we've added some navs for flair. Notice how much this function looks like <code>viewa</code>.
 
 <code>viewc</code> does pretty much the same thing but it checks to see if there is a parameter for reversing the navs. If present, the order of the navs is reversed.
 
